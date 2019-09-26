@@ -12,8 +12,20 @@ body,html {
     display: none;
 }
 
+.headline {
+    max-width: 620px;
+    margin: 0 auto 25px;
+}
+.masthead h1 {
+    margin-bottom: 25px !important;
+}
+
 body {
     font-family: 'Source Sans Pro'
+}
+
+h3.mb-5 {
+    margin-bottom: 15px !important;
 }
 
 .btn-xl {
